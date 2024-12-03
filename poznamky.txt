@@ -1,0 +1,30 @@
+repozitar/
+├── README.md
+├── .gitignore
+├── docs/
+│   ├── introduction.md
+│   ├── api/
+│   │   ├── overview.md
+│   │   └── endpoints.md
+│   └── guides/
+│       ├── setup.md
+│       └── deployment.md
+├── src/
+│   ├── app/
+│   │   ├── main.py
+│   │   ├── utils.py
+│   │   └── config.py
+│   ├── tests/
+│   │   ├── test_main.py
+│   │   └── test_utils.py
+│   └── modules/
+│       ├── auth/
+│       │   ├── login.py
+│       │   └── register.py
+│       └── data/
+│           ├── database.py
+│           └── models.py
+└── assets/
+     └── images/
+        ├── logo.png
+        └── banner.jpg
