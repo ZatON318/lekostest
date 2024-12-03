@@ -1,6 +1,6 @@
 # lekostest
 
-asdjfoahrtisdfgdft shihffksdjhg shgise
+Uvod do repozitara
 
 ## toto je len test
 
